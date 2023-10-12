@@ -25,8 +25,7 @@ apabila memilih pilihan 1 maka outputnya akan seperti gambar di atas ini
 karyawan akan diminta untuk memasukkan nama produk elektronik dan harga produk elektronik 
 
 jika sudah selesai memasukkan nama dan harga produk, maka kini produk kulkas telah ditambahkan ke dalam daftar produk 
-
-
+#
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/90131596-41a3-4768-af84-74e7bd51dc4a)
 
@@ -35,8 +34,7 @@ apabila memilih pilihan 2 maka outputnya akan seperti gambar di atas ini
 karyawan akan diminta untuk memasukkan nama produk yang ingin diubah(pastikan nama produk ini sudah ditambahkan ke daftar produk), memasukkan nama produk baru, memasukkan harga produk baru 
 
 jika sudah selesai memasukkan semua yang diminta, maka kini produk kulkas telah diedit menjadi rice cooker dan harganya juga sudah berubah  
-
-
+#
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/f4272443-c978-4972-8a19-b7a4b0f8b492)
 
@@ -46,9 +44,7 @@ apabila memilih pilihan 3 maka outputnya akan seperti gambar di atas ini
 karyawan akan diminta untuk memasukkan nama produk yang ingin dihapus (pastikan produk yang akan dihapus merupakan produk yang terdapat di dalam daftar produk)
 
 jika sudah selesai memasukkan nama produk yang ingin dihapus, maka produk rice cooker kini sudah tidak ada di dalam daftar 
-
-
-
+#
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/95b22e9f-b87c-40ad-8e7a-b3c0014b7c8e)
 
@@ -63,7 +59,7 @@ apabila memilih pilihan 4 maka outputnya akan seperti gambar di atas ini
 akan menampilkan daftar produk yang telah di tambahkan 
 
 dalam contooh di atas, saya menambahkan produk elektronik yaitu mesin cuci, setrika, dan televisi. dan kini produk-produk tersebut sudah ada pada daftar produk 
-
+#
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/83ac85a7-8c93-4681-98c7-085ef26a1a38)
 
