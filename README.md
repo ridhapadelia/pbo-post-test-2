@@ -33,7 +33,7 @@ apabila memilih pilihan 2 maka outputnya akan seperti gambar di atas ini
 
 karyawan akan diminta untuk memasukkan nama produk yang ingin diubah(pastikan nama produk ini sudah ditambahkan ke daftar produk), memasukkan nama produk baru, memasukkan harga produk baru 
 
-jika sudah selesai memasukkan semua yang diminta, maka kini produk kulkas telah diedit menjadi rice cooker 
+jika sudah selesai memasukkan semua yang diminta, maka kini produk kulkas telah diedit menjadi rice cooker dan harganya juga sudah berubah  
 
 
 
