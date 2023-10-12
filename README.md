@@ -58,7 +58,7 @@ apabila memilih pilihan 4 maka outputnya akan seperti gambar di atas ini
 
 akan menampilkan daftar produk yang telah di tambahkan 
 
-dalam contooh di atas, saya menambahkan produk elektronik yaitu mesin cuci, setrika, dan televisi. dan kini produk-produk tersebut sudah ada pada daftar produk 
+dalam contoh di atas, saya menambahkan produk elektronik yaitu mesin cuci, setrika, dan televisi. dan kini produk-produk tersebut sudah ada pada daftar produk 
 #
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/83ac85a7-8c93-4681-98c7-085ef26a1a38)
