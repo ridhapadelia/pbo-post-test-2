@@ -20,9 +20,7 @@ gambar di atas merupakan tampilan awal program toko elektronik disini terdapat 5
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/d8dcae87-37b9-4829-ba79-bb2086f5beb8)
 
 apabila memilih pilihan 1 maka outputnya akan seperti gambar di atas ini 
-
 karyawan akan diminta untuk memasukkan nama produk elektronik dan harga produk elektronik 
-
 jika sudah selesai memasukkan nama dan harga produk, maka kini produk kulkas telah ditambahkan ke dalam daftar produk 
 
 
