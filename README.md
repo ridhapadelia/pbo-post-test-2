@@ -23,7 +23,7 @@ apabila memilih pilihan 1 maka outputnya akan seperti gambar di atas ini
 
 karyawan akan diminta untuk memasukkan nama produk elektronik dan harga produk elektronik 
 
-maka kini produk kulkas telah ditambahkan ke dalam daftar produk 
+jika sudah selesai memasukkan nama dan harga produk, maka kini produk kulkas telah ditambahkan ke dalam daftar produk 
 
 
 
@@ -31,9 +31,9 @@ maka kini produk kulkas telah ditambahkan ke dalam daftar produk
 
 apabila memilih pilihan 2 maka outputnya akan seperti gambar di atas ini
 
-karyawan akan diminta untuk memasukkan nama produk yang ingin diubah, memasukkan nama produk baru, memasukkan harga produk baru 
+karyawan akan diminta untuk memasukkan nama produk yang ingin diubah(pastikan nama produk ini sudah ditambahkan ke daftar produk), memasukkan nama produk baru, memasukkan harga produk baru 
 
-maka kini produk kulkas telah diedit menjadi rice cooker 
+jika sudah selesai memasukkan semua yang diminta, maka kini produk kulkas telah diedit menjadi rice cooker 
 
 
 
@@ -44,7 +44,7 @@ apabila memilih pilihan 3 maka outputnya akan seperti gambar di atas ini
 
 karyawan akan diminta untuk memasukkan nama produk yang ingin dihapus (pastikan produk yang akan dihapus merupakan produk yang terdapat di dalam daftar produk)
 
-maka produk rice cooker kini sudah tidak ada di dalam daftar 
+jika sudah selesai memasukkan nama produk yang ingin dihapus, maka produk rice cooker kini sudah tidak ada di dalam daftar 
 
 
 
