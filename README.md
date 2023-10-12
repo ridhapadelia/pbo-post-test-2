@@ -16,6 +16,7 @@ gambar di atas merupakan tampilan awal program toko elektronik disini terdapat 5
 3. Hapus Produk
 4. Tampilkan Produk
 5. Keluar
+   
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/d8dcae87-37b9-4829-ba79-bb2086f5beb8)
 
