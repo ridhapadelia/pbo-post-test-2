@@ -16,8 +16,7 @@ gambar di atas merupakan tampilan awal program toko elektronik disini terdapat 5
 3. Hapus Produk
 4. Tampilkan Produk
 5. Keluar
-
-   
+#
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/d8dcae87-37b9-4829-ba79-bb2086f5beb8)
 
@@ -58,6 +57,7 @@ jika sudah selesai memasukkan nama produk yang ingin dihapus, maka produk rice c
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/aeb5ca9d-2967-49a2-86d9-f76c1a6d8650)
 
 ![image](https://github.com/ridhapadelia/pbo-post-test-2/assets/126879606/5cd29803-55ad-4126-9970-389a223586cf)
+
 apabila memilih pilihan 4 maka outputnya akan seperti gambar di atas ini 
 
 akan menampilkan daftar produk yang telah di tambahkan 
