@@ -4,6 +4,7 @@
 pada program toko elektronik ini memiliki 2 package dengan masing-masing memiliki kelas yaitu :
 1. package posttest2 kelasnya ada kelas Produk, Karyawan, dan Posttest2 sebagai main classnya 
 2. package penyediaan memiliki kelas ProdukToko
+   
 di program ini saya buat karyawan toko elektronik agar dapat mengedit, menghapus, menambah, dan menampilkan produk dari toko elektronik ini 
 ## Penjelasan Output Program 
 ### Tampilan Awal Program 
